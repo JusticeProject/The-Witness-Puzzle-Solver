@@ -1,8 +1,8 @@
 # The-Witness-Puzzle-Solver
-Automatically solves the timed puzzle near the end of The Witness (the video game) using the OpenCV computer vision module.
+Automatically solves the random and timed puzzle near the end of The Witness (the video game) using the OpenCV computer vision module.
 
 ## What it does
-When you are near the end of The Witness and you reach the door with two timed puzzles (see image below) this software will automatically calculate the solution. There is currently only support for the puzzle on the left.
+When you are near the end of The Witness and you reach the door with two random and timed puzzles (see image below) this software will automatically calculate the solution. There is currently only support for the puzzle on the left.
 ![The Witness](sample_screenshots/17.png)
 
 ## How it works
