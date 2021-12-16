@@ -23,7 +23,7 @@ There is also a debug mode that lets you see what elements in the puzzle were fo
 #### docs folder
 * Documentation used for this readme.
 #### sample_screenshots
-* Various screenshots of the puzzle which can be used instead of loading up the actual video game. Make sure the screenshots are show full-screen.
+* Various screenshots of the puzzle which can be used instead of loading up the actual video game. Make sure the screenshots are shown full-screen.
 #### static folder
 * HTML pages used by the flask web server.
 #### templates folder
