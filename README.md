@@ -46,4 +46,5 @@ pip install opencv-python
 `python .\Main.py`
 
 ## TODO list
-Add support for more than one puzzle!
+* Add support for more than one puzzle!
+* Clean up the code and add more comments to the code
